@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+
+# Generated / bulky artefacts
+data/inmet/
+data/processed/*.csv
+data/processed/*.parquet
+data/processed/*.json
+!data/processed/.gitkeep
+
+firmware/.pio/
+firmware/.vscode/
+
+# Local experiment dumps
+results/*.csv
+results/*.json
+!results/.gitkeep
+!results/expected/.gitkeep

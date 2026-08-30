@@ -1,0 +1,1206 @@
+{
+  "n_stations": 100,
+  "n_rows": 1754400,
+  "files": [
+    {
+      "station_id": "A001",
+      "path": "INMET_CO_DF_A001_BRASILIA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "8c20dab917bb999c66879b853c81847ff10ced4f30e28e501b6d4017e5fdb571",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A001",
+      "path": "INMET_CO_DF_A001_BRASILIA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "4752b7919c0d2426af51f5027d96bb425999c26c6971e768886234babc493a6e",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A002",
+      "path": "INMET_CO_GO_A002_GOIANIA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "e3ab74afd2944a95a15f666ea46c4feb77fcc8da521d4b913fd4c96a265d16ea",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A002",
+      "path": "INMET_CO_GO_A002_GOIANIA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "7230bd4da6b2292d030e12b52dbfd9d1234c617029d47450b5a23d0baf68909c",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A003",
+      "path": "INMET_CO_GO_A003_MORRINHOS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "25e130fdd5013c1be92ac9b0ff620c37a85a8afb71b75c64334cb516ccab1e84",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A003",
+      "path": "INMET_CO_GO_A003_MORRINHOS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "c73e07059fa6a22067224f11f2b794c1b9d6662f728355fb40154e44aac7033e",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A005",
+      "path": "INMET_CO_GO_A005_PORANGATU_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "239a6589ca30366cc11f4078fdbbf19572f88af8184b6764605f51e078b1aa54",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A005",
+      "path": "INMET_CO_GO_A005_PORANGATU_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "4c880becc39bfe350ee022e8fa19b545cc81a39509ec933047f393e99a0d7aeb",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A009",
+      "path": "INMET_N_TO_A009_PALMAS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "a2129ea176be8175bf3bd57d811452663d38d244178e9e487c7caa43f9aabed4",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A009",
+      "path": "INMET_N_TO_A009_PALMAS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "f6ec93410702212bdf486526f07f7ab13bebe997e3ea4967d72cabb0debaaa3a",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A010",
+      "path": "INMET_N_TO_A010_PARANA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "9b80f0e3883c0512053b780e8eedaf1924fb728d8824f07753318f732326a0ea",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A010",
+      "path": "INMET_N_TO_A010_PARANA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "a2a56c544d3ac012835e3185880e3624c848bc10c1793a95b06274ad7075bff4",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A011",
+      "path": "INMET_CO_GO_A011_SAO SIMAO_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "3f9851eccc143c883ec8b4df7571af2d579aa8b61038cd045dc4e7bb940d1793",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A011",
+      "path": "INMET_CO_GO_A011_SAO SIMAO_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "aab1e7014fc5a5fa44670ef801108df82d645bfb68ad11fd2777aececcf341fc",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A012",
+      "path": "INMET_CO_GO_A012_LUZIANIA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "a8d38c15fd973b8b8dd7c4f8dae0df61349431c8b3a5543ac6ac8d6a50582583",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A012",
+      "path": "INMET_CO_GO_A012_LUZIANIA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "fcccdb44414db9297406d7c9d77daeae4c6b5042b499e098082901df5c18ceb7",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A013",
+      "path": "INMET_CO_GO_A013_ARAGARCAS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "096cded917c241392c3e5533aed22f09ac72e21dbf19f6a334796415697b5719",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A013",
+      "path": "INMET_CO_GO_A013_ARAGARCAS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "e4900cd95dceb343f24c977e5d0c82d84fd634921e85cd8895c63d2964b30437",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A014",
+      "path": "INMET_CO_GO_A014_GOIAS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "0d75197d0c91720188ecfb1ec34f5bb9c82e112f245ba6bd422269928d904ca5",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A014",
+      "path": "INMET_CO_GO_A014_GOIAS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "c9542a5606d91189c78cc5fbc57ea036849ea9b494c9d369687aaad7b5ef305c",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A015",
+      "path": "INMET_CO_GO_A015_ITAPACI_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "8e922f776e929b315bc19da6b347d5e66e880fdf73f8965dfe5e618877943eda",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A015",
+      "path": "INMET_CO_GO_A015_ITAPACI_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "77979bb4761d7fe671e02894bd3e6bb79b52cbab7176c399a0554e5365f48a59",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A016",
+      "path": "INMET_CO_GO_A016_JATAI_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "05e77872bfe3bfcb17f0a9e1f60cc3f504c9747a461e61052a0b5b19f7138344",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A016",
+      "path": "INMET_CO_GO_A016_JATAI_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "2fcc94fe9aa4ffe9c72bc8e0c867572d30c96023c144569a42199cc6aa41edff",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A017",
+      "path": "INMET_CO_GO_A017_POSSE_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "165fe789178092395d1dc4544093cfe069bdfd3fb291ba5838e08ee6842253f3",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A017",
+      "path": "INMET_CO_GO_A017_POSSE_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "f9664632b5b5daaaa47f0e05882f4de39d7a52db66b451f46eccaca8c49dcbe1",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A018",
+      "path": "INMET_N_TO_A018_PEIXE_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "3c5b2eb7da2761bb3416812c366546c8f4773f15009596b7e99db9569d3689b6",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A018",
+      "path": "INMET_N_TO_A018_PEIXE_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "d207879df3807fc3297f201eb5afcc0dc25cfcd2c60c4424adf96276d465d72e",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A019",
+      "path": "INMET_N_TO_A019_GURUPI_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "302871209616c391013865e302a958e70d98297afc21e69e26a51fb458f94c94",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A019",
+      "path": "INMET_N_TO_A019_GURUPI_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "9425e362866aea135300665b6ff8ad471637ab1a14de26e2a40ddfdd1e0c2d1b",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A020",
+      "path": "INMET_N_TO_A020_PEDRO AFONSO_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "4aeac6065a7e787a324a319c38eab6b3ce0d12208697d4da26311df8375bf406",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A020",
+      "path": "INMET_N_TO_A020_PEDRO AFONSO_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "8d260c765cf10bd21603b25dce13906f0d4b1a36644ce64c86658f08c607e9eb",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A021",
+      "path": "INMET_N_TO_A021_ARAGUAINA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "07feb0cb80e57b45da0249db509526214523218794ff9536f0aed0f97f2d2cbc",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A021",
+      "path": "INMET_N_TO_A021_ARAGUAINA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "90be896e94bdc18d1a04fa62d953576cb4b4f94e55503fc7d615d388368cd478",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A022",
+      "path": "INMET_CO_GO_A022_GOIANESIA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "97ff883603a4d3c668b8404290a380d7d311162774fb7c7eb0490c13b4f14487",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A022",
+      "path": "INMET_CO_GO_A022_GOIANESIA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "5a278611717f6c923e300ee410d0d3ab7d098db0a707ca94759a2e44d9a9956d",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A023",
+      "path": "INMET_CO_GO_A023_CAIAPONIA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "d709b9c4ce560b127638dbb364d3d0b5023096f5aab086424bdcd6cfb9c46c37",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A023",
+      "path": "INMET_CO_GO_A023_CAIAPONIA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "e89704500bd121994fce9f582707282068a24d28ec69360e27f48c53c61179e6",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A024",
+      "path": "INMET_CO_GO_A024_ALTO PARAISO DE GOIAS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "95d60067449aafbcefe0a28cce35b80c0fc852ac31bba5bb645d1effb922a94c",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A024",
+      "path": "INMET_CO_GO_A024_ALTO PARAISO DE GOIAS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "a9f0e2ed2ba5bc2e1ad06eaefccfa0e874361035c615e046fde859d77c3da61e",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A025",
+      "path": "INMET_CO_GO_A025_RIO VERDE_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "aebf7ecd63829c7f7973f14b9725722b397d89ec5c4c7612d8a1c3f1a579f0c3",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A025",
+      "path": "INMET_CO_GO_A025_RIO VERDE_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "cd2c36590b36d78d46529ae4f40e617891aa1a004b98f0e097b38a516a14d160",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A026",
+      "path": "INMET_CO_GO_A026_MINEIROS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "d85caeabada7488a60fcd1fff678a8bee11685dca2ceed6b264d171e5ec709a7",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A026",
+      "path": "INMET_CO_GO_A026_MINEIROS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "ec995e15a802c81c9be0a3f0253a5f5dcae033dcd04e0084847f309f063d4b29",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A027",
+      "path": "INMET_CO_GO_A027_PARAUNA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "658acdd2753b0cd26b6b3dcc0c7be3de24b53ac420a91fcdb7933cc377d803f0",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A027",
+      "path": "INMET_CO_GO_A027_PARAUNA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "5eb517238fce40732ddfc4dac49f320e552ad8c014483bb8793e315c86fca62a",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A028",
+      "path": "INMET_CO_GO_A028_IPORA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "62b3a988d183d8c29e90d3e295b334f1b2be383c1ded8b4f472dd412f43962b2",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A028",
+      "path": "INMET_CO_GO_A028_IPORA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "cca2cfc9e878023a0173e4c0d7864ee8f7390e7888a54e2dc214f280fc012527",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A029",
+      "path": "INMET_CO_GO_A029_EDEIA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "0309c275f5b374755a3abdfbba4bfe2599e73ddd8938ad8bdd6b780c531dd0c8",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A029",
+      "path": "INMET_CO_GO_A029_EDEIA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "c38c947b29c168d6f5a2dfae149d0cf8f8f353eda7da05b9d993c8c0fc4b3708",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A031",
+      "path": "INMET_CO_GO_A031_SAO MIGUEL DO ARAGUAIA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "bf776461c4e4a41108f6ce8de12e8002fd152095809126ce77cff71084b9c709",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A031",
+      "path": "INMET_CO_GO_A031_SAO MIGUEL DO ARAGUAIA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "50afeae00850e587ab5195efcb3e9c3e343392b67cc3d38c42d72b388542eaa6",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A032",
+      "path": "INMET_CO_GO_A032_MONTE ALEGRE DE GOIAS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "906cbe0665c6c5d5d120c81f51db79fe8b18e10d00d49d61afa3d839e9c7ca69",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A032",
+      "path": "INMET_CO_GO_A032_MONTE ALEGRE DE GOIAS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "5ba350bf498cd4b5a779ea940f6bf6ed04404ec3e57028b61667202fc1562719",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A033",
+      "path": "INMET_CO_GO_A033_PIRES DO RIO_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "8a86b17274cbd9f089fe774795d124ba0ac3f5e29d0732cebcef291d05af1f87",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A033",
+      "path": "INMET_CO_GO_A033_PIRES DO RIO_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "4f8f685dd57bc9fd027290c1204f47f318eae12119bf989e255721368a189fa1",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A034",
+      "path": "INMET_CO_GO_A034_CATALAO_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "49b88feaeb35890633e5b9eee15cea4c272fa5756a57269c6a829148afb0ef44",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A034",
+      "path": "INMET_CO_GO_A034_CATALAO_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "6a8d545a478354f942bd0b0d151f57fff13e04ae53b7aa9b4b5bd5d00c91530c",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A035",
+      "path": "INMET_CO_GO_A035_ITUMBIARA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "b78b8bacdb1017a71e3d4b0c074b6c0d6d9bab92d51b4d0fe260147980ac57a1",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A035",
+      "path": "INMET_CO_GO_A035_ITUMBIARA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "35e3df36b67dbad825ccedd0acad3f164c6a9ebc0c038ddde59b4ce2d64c56a4",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A036",
+      "path": "INMET_CO_GO_A036_CRISTALINA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "f7416c1b4141ab6c6172bd95753d099df70a784c00ad8eba78ec93e78e0e82db",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A036",
+      "path": "INMET_CO_GO_A036_CRISTALINA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "f6651162a083332687e1a6a8a801799b14a7db197302ef22fe68cc5eb7e5caca",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A037",
+      "path": "INMET_CO_GO_A037_SILVANIA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "0cc518b22c195c4a81d7fc70212ebf1bc220b18b3e1f73b2379d0c7dcc9e276d",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A037",
+      "path": "INMET_CO_GO_A037_SILVANIA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "02ba3178890a408b249cd768147b2a566c7374259ad4d8e28eeb2d0ed69dee63",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A038",
+      "path": "INMET_N_TO_A038_DIANOPOLIS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "3876bf36e601d289fa73cb5dfc7f506e84ee653e2c155f1a8fd3f29094abbd20",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A038",
+      "path": "INMET_N_TO_A038_DIANOPOLIS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "ce55025ab592a82f4b8d7ddc8637d330b1d9e888531eee1af8ee5ac344949047",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A039",
+      "path": "INMET_N_TO_A039_FORMOSO DO ARAGUAIA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "a302a4d0f046c5c636091547a2680c8eb065516ae7bbad406aea8f2252bd3205",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A039",
+      "path": "INMET_N_TO_A039_FORMOSO DO ARAGUAIA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "decabee71c2f51f1d03b3508f2cf70f1696df580eb779a5b912f4b8f65b9b5a2",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A040",
+      "path": "INMET_N_TO_A040_MATEIROS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "e80026a26403942c11ec8d294cd16463a45335252bd68832eda9902ffcdd058b",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A040",
+      "path": "INMET_N_TO_A040_MATEIROS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "ee3f55d0618b65a3475a8c9e54a3582192e527c5abd05ea5b05721e72b6a9732",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A041",
+      "path": "INMET_N_TO_A041_MARIANOPOLIS DO TO_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "674bee209a96286d618f935f9c18637e18d9b72a16cd604237ef67c42affa144",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A041",
+      "path": "INMET_N_TO_A041_MARIANOPOLIS DO TO_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "93f0dba39f7b92d8f0d5f6c67aff0bb25342285a10c1d3d97161da312ab05727",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A042",
+      "path": "INMET_CO_DF_A042_BRAZLANDIA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "0fdc3381e4bf53f9e63dfe9d30d8cd4cec571f2de861f73a55453d45465e23e7",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A042",
+      "path": "INMET_CO_DF_A042_BRAZLANDIA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "6a9b2cc88b85fbf05e185458d9b5f61fe4d56722f615461b53a2f2a403dae011",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A043",
+      "path": "INMET_N_TO_A043_CAMPOS LINDOS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "379a5211525f4b9cb74349eca31ba33da6f46e42f4ce5deb030e35369a8722f6",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A043",
+      "path": "INMET_N_TO_A043_CAMPOS LINDOS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "1960d05cc7cb4a6e28571fcf8c1af0423cb30a14cc1bcdff785399a48d25cf72",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A044",
+      "path": "INMET_N_TO_A044_ARAGUATINS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "03e81b0e93e4d58aadc4cc28925c8ce68427e85fab38b8ec5abb7b3f5711181f",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A044",
+      "path": "INMET_N_TO_A044_ARAGUATINS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "925d94a5f0543d2ff05e9cabdcfb3d639fbe67a34f9f622c5c7871b988c9aae3",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A045",
+      "path": "INMET_CO_DF_A045_AGUAS EMENDADAS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "8904c9527158dacc7c61211112ed18924ec8890dc4ebc865c33cff50deca28fd",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A045",
+      "path": "INMET_CO_DF_A045_AGUAS EMENDADAS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "e3cee0138bd5ed9555d5ae9246366e996d5697498d99f4d18be42d3f8e3cb445",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A046",
+      "path": "INMET_CO_DF_A046_GAMA (PONTE ALTA)_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "9afa010a8fb16a6a5ef2d5bbdb2ede859fdc5410a0bc033fcac13f4f304933f8",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A046",
+      "path": "INMET_CO_DF_A046_GAMA (PONTE ALTA)_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "dc1ba80ca83c55eeadf35aa754e583eae5ff0e4bf36410f3d7357d4f72b8cd87",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A047",
+      "path": "INMET_CO_DF_A047_PARANOA (COOPA-DF)_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "3a8809cce4ca9e169cd2b626b5fb8854b9c91ec213c8a740a2b747f6dd58c63f",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A047",
+      "path": "INMET_CO_DF_A047_PARANOA (COOPA-DF)_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "51eeaed033af3f314b5946a2038b4c706b60909c19ab93dc201701d4cfd727c8",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A048",
+      "path": "INMET_N_TO_A048_SANTA FE DO ARAGUAIA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "a29899a0c0acf4f49bd82ea3ff604d99be0eb1e42affb92d47b6babbdcd92571",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A048",
+      "path": "INMET_N_TO_A048_SANTA FE DO ARAGUAIA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "fbf9971aed68a7599c8ddf542542e3707fc6176c428496276de703c733d53210",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A049",
+      "path": "INMET_N_TO_A049_COLINAS DO TOCANTINS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "bee3171f1544670079ed4fd02e9da73cc82b1790b6bc2698d40b84ed1bde896c",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A049",
+      "path": "INMET_N_TO_A049_COLINAS DO TOCANTINS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "144b3a532e3f79cd011c346077cb4a5f47dfa0079bb5c7a22f21f618e1b113c5",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A050",
+      "path": "INMET_N_TO_A050_RIO SONO_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "4bdcf96ea44a650f59a89fedb2873b516873781fd65a61a4db6eb82afdd2977e",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A050",
+      "path": "INMET_N_TO_A050_RIO SONO_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "d303f6084f5ebf2b13d1b70474ddcd159c39856ab6530c6f19e212b1a424b04d",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A051",
+      "path": "INMET_N_TO_A051_PIUM_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "a404fab37876250ef738d2ef2c123c5378e845fe9c25fd4ea6eeb336d45a0476",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A051",
+      "path": "INMET_N_TO_A051_PIUM_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "ee75b0ab4add7172bc5268c5028fec617bf5d0cf32826ae2bd3c0fb97722a58e",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A052",
+      "path": "INMET_N_TO_A052_SANTA ROSA DO TOCANTINS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "7e03f21abf412f44e64f8f947ea1e1d2d35c1d082e64af9fadd7323822471321",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A052",
+      "path": "INMET_N_TO_A052_SANTA ROSA DO TOCANTINS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "b2bf1ca6d883cb96895c44fc59ba8a00df80ca430c1aa3288db36bfa25e8f07a",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A053",
+      "path": "INMET_N_TO_A053_ALMAS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "0100df907d2247104c3c86ee092f1c4f00bbe8b2a3c9d7bbc3ec27c338f4f318",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A053",
+      "path": "INMET_N_TO_A053_ALMAS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "b57abe73940e96fe799847d667dd9ee43779c7b871553002a968012d6d472654",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A054",
+      "path": "INMET_N_TO_A054_ARAGUACU_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "afc6d58fea42ee83acea858b89f3d92431a5fbd085eee7be00c6105b3d817b09",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A054",
+      "path": "INMET_N_TO_A054_ARAGUACU_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "ca9bf8fd0a1f6b6621cf0a4a9d7b9a7beb992956931983a7085c224c682711f5",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A055",
+      "path": "INMET_N_TO_A055_LAGOA DA CONFUSAO_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "b8702b9836cecf331dc44b5e2638e668bd0ff1c3fb40633debfe8644586b78cb",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A055",
+      "path": "INMET_N_TO_A055_LAGOA DA CONFUSAO_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "78900ab923355c2f698281d7c4c01468b877ef26b78cb71d12178c6b39929db4",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A056",
+      "path": "INMET_CO_GO_A056_CRISTALINA (FAZENDA SANTA MONICA)_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "9f692cf35b5597289e267db5bd908baded87d233b4074bc29ae9c0204e1cd566",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A056",
+      "path": "INMET_CO_GO_A056_CRISTALINA (FAZENDA SANTA MONICA)_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "eb0c72b92a21ab5b1fdf4d22bdcd03dd5a7f45b8b0e76f28f39f18a61f7c9207",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A101",
+      "path": "INMET_N_AM_A101_MANAUS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "7d58b76c5ad1fec931b656743d0f4a9830a601e515d42c78706bc866772295f6",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A101",
+      "path": "INMET_N_AM_A101_MANAUS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "d6aff4f94d508010b76c4d19b30c388c793aef92d608b5737d6c2d6fab1b62fc",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A102",
+      "path": "INMET_N_AC_A102_PARQUE ESTADUAL CHANDLESS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "1ba42f5f776f0db3fb8ca9ea89093ba0b210cdbabfdd10346f33c4bbcc8e27ac",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A102",
+      "path": "INMET_N_AC_A102_PARQUE ESTADUAL CHANDLESS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "19a9f816cfd83608a25cb2ccb2b206d866f0e6de8a55e180f5a262bfcda41aaf",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A104",
+      "path": "INMET_N_AC_A104_RIO BRANCO_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "d2ff173affc7c9bc32167b2fda28350afafc0b4bc3cf453ea963b5a7984e9df4",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A104",
+      "path": "INMET_N_AC_A104_RIO BRANCO_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "722b6e2bc827a43cb6f98675261984c20e3b0ffe7d47f3f04591dab20e00bcb2",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A108",
+      "path": "INMET_N_AC_A108_CRUZEIRO DO SUL_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "0a7677959214b726b6cb07efd2a168bc29fe3b14873e17586dfd9d812680b2dc",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A108",
+      "path": "INMET_N_AC_A108_CRUZEIRO DO SUL_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "97316276caaf7f4a1d93392c67f2b22274b2358cfeffe668e54a02bba2d25f52",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A109",
+      "path": "INMET_N_AM_A109_EIRUNEPE_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "e25a66acceb213a6de16add71f2f583f756bcf5dc12c65ebe1148d2503871e27",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A109",
+      "path": "INMET_N_AM_A109_EIRUNEPE_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "c532e172e5978b003781321bc329a9983ce63d489a757d4d11dba40d86f509dc",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A110",
+      "path": "INMET_N_AM_A110_BOCA DO ACRE_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "d55a0c49ebebf653ded0de6ccb2d22aaf8fd80a3bbe8de3b5fb56b406222d47b",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A110",
+      "path": "INMET_N_AM_A110_BOCA DO ACRE_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "24a22df4789d594144c928c27032f70dbcf1881f409fd4d0e98925f85ab07ba7",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A111",
+      "path": "INMET_N_AM_A111_LABREA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "0d651b90eb20ee0a72003847a05fdf4ef4b023f8f79ac8f33c50266c22f94a40",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A111",
+      "path": "INMET_N_AM_A111_LABREA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "cf8c1a7540133a141e93c2a5a9fa34bc29d90232a55d1b0cc8b6ef9f07eda191",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A112",
+      "path": "INMET_N_AM_A112_HUMAITA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "6b0bd1c1ebfa9cc20060478596dad807981dfdb7a70f461c8068637a7123f788",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A112",
+      "path": "INMET_N_AM_A112_HUMAITA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "99fbd6bb04fb7d740ee9dd51549c85f0e099ad5cd5288fc089e582914b558296",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A113",
+      "path": "INMET_N_AM_A113_APUI_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "779b3607f687fecb94226116df765df2b2e6e668ad7abc939eb5626e01980034",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A113",
+      "path": "INMET_N_AM_A113_APUI_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "ce2768dc5a2d3334381ccd93c8b0acc80ff81095857f871e9c31cc1439585d6d",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A117",
+      "path": "INMET_N_AM_A117_COARI_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "0bf658a8a1969e6f4faee5f4e65056d1e43b1a7a4ba83a0b217a1cc7b082fe40",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A117",
+      "path": "INMET_N_AM_A117_COARI_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "38ffbdce28e035702fbcd871cbb32d10a4d805fa0bbc7f45745627e558956361",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A119",
+      "path": "INMET_N_AM_A119_MANACAPURU_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "40b6ee5d48e6d62dcf9fd1e13b169652606fb4d2b65834945bcdb504098944a7",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A119",
+      "path": "INMET_N_AM_A119_MANACAPURU_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "033fe99a3546863fd54d6a8b3236ae6453e8decce84cec06b6b4bf34ea80b868",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A120",
+      "path": "INMET_N_AM_A120_AUTAZES_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "ad39111467531be6200cd71b4446efbadbdc04da497509d1f282894592bad3f3",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A120",
+      "path": "INMET_N_AM_A120_AUTAZES_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "51a78aec0d7cbb6a0705946491b0808de9f248f6da6289193ad13d35f5983793",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A121",
+      "path": "INMET_N_AM_A121_ITACOATIARA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "b839fb6732c3243f7452548d2f86266da5d3e1f7011e33ab6f667343488320b1",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A121",
+      "path": "INMET_N_AM_A121_ITACOATIARA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "0888557dcb6f029dc90ce68c80a2c593a28e2f1f5d4cefa3e8c4164376d6e0c6",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A122",
+      "path": "INMET_N_AM_A122_MAUES_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "2311087eeb6a6ff3ca3ee9052270169df5fe164f14f465a7e82da58f4d3a20ab",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A122",
+      "path": "INMET_N_AM_A122_MAUES_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "b4b200e4b48b521f043be30f5ed6c531f9bd7e3f3dd3f1763044dae991f23f9a",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A123",
+      "path": "INMET_N_AM_A123_PARINTINS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "55af2bd0503f5ee6d456c02f9daf3f0cddcabe075366c582b4ef851694b232aa",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A123",
+      "path": "INMET_N_AM_A123_PARINTINS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "b57edb3009ff23fa266ccd91f80cfcd87e7748688b1f111dc8902f6fdecc7627",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A124",
+      "path": "INMET_N_AM_A124_URUCARA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "fb46b0d9edb4d7568abea3f802b0215da22ab4cbfd10aebe1ca7d21d52905fd4",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A124",
+      "path": "INMET_N_AM_A124_URUCARA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "684ce4e4ce6b7c8e92b920ff80de8b5530272affb67becee452461c4f724957b",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A125",
+      "path": "INMET_N_AM_A125_RIO URUBU_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "23d71fd616ec12f6d5015d53e38753da399ee1255da421a6ccc80f526bf8cef0",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A125",
+      "path": "INMET_N_AM_A125_RIO URUBU_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "1ae67d3677dd9e64fca0fb6d4c6d693aad7b7e9d5fe2850b6ea6e3cf26cd4467",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A126",
+      "path": "INMET_N_AM_A126_PRESIDENTE FIGUEIREDO_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "4c2d33ac807bc18e1028868bf62e4154efa0ba8d49514753902292be997aa97d",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A126",
+      "path": "INMET_N_AM_A126_PRESIDENTE FIGUEIREDO_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "6d82b7ccaedcf0e2cb8b4b650a3a532414bd43896b96b623570e2e85ccc0764b",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A128",
+      "path": "INMET_N_AM_A128_BARCELOS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "4de789467db694cf5b840ee5a4b5e09e5e7789233d133a08e9be0189d76441c9",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A128",
+      "path": "INMET_N_AM_A128_BARCELOS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "f41abc5466b8c68459035ec49bbe1cd773ffd5a304be7abde43151773e0cae38",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A133",
+      "path": "INMET_N_AM_A133_MANICORE_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "7af22f7284d6b6a5c9c69d5853b3dd61a7c115e252e6e15241fedc7a44e606cc",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A133",
+      "path": "INMET_N_AM_A133_MANICORE_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "3dedce539666c0255d6c3d527057f7a74371d3d54b9dba5315624b2d002a5caf",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A134",
+      "path": "INMET_N_AM_A134_S. G. DA CACHOEIRA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "a08c565f9e201bf8856c19774a346de54d9052ecd87a9f24c05fe1b07375ce9f",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A134",
+      "path": "INMET_N_AM_A134_S. G. DA CACHOEIRA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "f06ac3597f1cd7d51f80c74419b1e89eb5562e0fe00c0b857183be8267e0a2ba",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A135",
+      "path": "INMET_N_RR_A135_BOA VISTA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "fa841cb525b41adf9f00d7a911a7ed8c7a775450581edef86990bbb49dddd1be",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A135",
+      "path": "INMET_N_RR_A135_BOA VISTA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "441d17a4d4df5ffb5dfe628b930bcd443dfbc1abbc232cf1b3d4fb10f4bf460d",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A136",
+      "path": "INMET_N_AC_A136_PORTO WALTER_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "5db5e7c2827edb1aabcce95a494368c504615b8be25cbc257baf90c386773171",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A136",
+      "path": "INMET_N_AC_A136_PORTO WALTER_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "ecee2998ea7cb22d88db62118095e4ce5b6f25816b736bd00bf52522517da050",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A137",
+      "path": "INMET_N_AC_A137_MARECHAL THAUMATURGO_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "d076e830600fe6f9dd1d01eabd7f143fa877300423caf56c8dd361ece08edb50",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A137",
+      "path": "INMET_N_AC_A137_MARECHAL THAUMATURGO_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "4726cecb06ac96abaee57bfce6565da9c4ba3aba9366ef4f101ffa11e59d9f1d",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A138",
+      "path": "INMET_N_AC_A138_FEIJO_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "01030ea98d984c1ae3776e7b7e04b52847d1bb3f080e5d42e94be37492742573",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A138",
+      "path": "INMET_N_AC_A138_FEIJO_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "5ed43b8f15f9afaa7f854fbfb2c4c4370d144bb3bf68aa0a319df742df4e9de9",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A140",
+      "path": "INMET_N_AC_A140_EPITACIOLANDIA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "a60479e4b5ad7ecc50efc1476898102b7555e00ea5c3bf3c72bdb8935043d6d7",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A140",
+      "path": "INMET_N_AC_A140_EPITACIOLANDIA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "ca5034ca8d0222e9e2cea27411a1fd45a01337c98b18ec54511149798877a7b8",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A144",
+      "path": "INMET_N_AM_A144_NOVO ARIPUANA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "bcc5884975ed43325647d2570e1aabf64fa82bb14e4e575f4eaef42630ba6036",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A144",
+      "path": "INMET_N_AM_A144_NOVO ARIPUANA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "aec83baeacb7713911dc51b30e4040709bc0ff92f1a7506ca596f055ab53c667",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A201",
+      "path": "INMET_N_PA_A201_BELEM_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "2cfd780a70f90bcdb96ab2211975744bcd25800c480450b290a1b20bec677776",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A201",
+      "path": "INMET_N_PA_A201_BELEM_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "865596b306abf777b908f5d7d2c60520b681b34fef01ea5420a09fdd82724b5a",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A202",
+      "path": "INMET_N_PA_A202_CASTANHAL_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "086fcb7fbc3ede30a3fa39fc77d3a46aa3e1eeb21aca7534b463d087e2de9a4e",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A202",
+      "path": "INMET_N_PA_A202_CASTANHAL_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "130780e5daa01be957e14e6a71bb2169ede3bf7c58c559cf041358ea62f50f26",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A203",
+      "path": "INMET_NE_MA_A203_SAO LUIS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "4b0a6683dd432fa856dc662987e65e8f7e61d7bf4894ce14db69625b13ea4572",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A203",
+      "path": "INMET_NE_MA_A203_SAO LUIS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "7c06205de9fabe4da4fd9e7dfadb6bee734567284e21a4c91e63c3945054cf1c",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A204",
+      "path": "INMET_NE_MA_A204_BALSAS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "7aa68f3a9a2c09ef19a822490fb5fe957c1e0b37bed7ca6b084e3e38d450b233",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A204",
+      "path": "INMET_NE_MA_A204_BALSAS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "1a254ac6840326889486bb5e318f80bd07d0c7dca5b95db2a36d42af014eaf40",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A205",
+      "path": "INMET_NE_MA_A205_CAROLINA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "8f3019a6f02ab6887bf0d7c01cde5c8a3170487fe11730b1392c791003279f4b",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A205",
+      "path": "INMET_NE_MA_A205_CAROLINA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "37e763723a0349cb4584c323716b25f9f1dde57ed3b8789f13de33b504395e9b",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A206",
+      "path": "INMET_NE_MA_A206_CHAPADINHA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "07a7d72b941a875ac4fd7cdc3f390edc040995f9d90709c576c57d386640e946",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A206",
+      "path": "INMET_NE_MA_A206_CHAPADINHA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "e42012a4154a5209f4746ffc07eaacd08f254e6554c130377e6ef9d4b3588883",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A207",
+      "path": "INMET_NE_MA_A207_GRAJAU_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "ff3c04239b8329de36c5e42413b54e00761e6c5cc1f90f0724b0e8140aba72c0",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A207",
+      "path": "INMET_NE_MA_A207_GRAJAU_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "363d49cbeca446aa00b7aeae14ead2725a06c5b2674f7177e212202e87e20659",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A209",
+      "path": "INMET_N_PA_A209_MEDICILANDIA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "a5a697bffdfba6a4cb6e114fdc91f8d0eadf7962c5da53ff79fd4b37db4b7b31",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A209",
+      "path": "INMET_N_PA_A209_MEDICILANDIA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "f88bbba0b6b02fe5e16417361f45c66866c9748e816a52dd5401c473fc2968e8",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A210",
+      "path": "INMET_N_PA_A210_PACAJA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "d0a349d15b3912c0c34bf99dd2ada13baa7504dbd3a8bfe7d33f2fef23116388",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A210",
+      "path": "INMET_N_PA_A210_PACAJA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "c34561895cc86c0e0202a706ed18ff72bd08efe4d6faa7d2e0143c8176dc800e",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A211",
+      "path": "INMET_N_PA_A211_PLACAS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "1caf3a33ea89789b3eedd6d79f6d79dc29502bb090421bce51f8d7ed68844cd9",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A211",
+      "path": "INMET_N_PA_A211_PLACAS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "c20baf8bffffe876bd65da4c7a2170c946da78b5b05dafaf5eef5f8eb69feefe",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A212",
+      "path": "INMET_N_PA_A212_PARAGOMINAS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "8750f583c80392b12723429c3b4bd1af430aeecb399db27b4cdc72d431ea1772",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A212",
+      "path": "INMET_N_PA_A212_PARAGOMINAS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "48576243631cf2421281d8e4b71ec27bf5cd75863ba7503e3c70f57b3ff9d443",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A213",
+      "path": "INMET_N_PA_A213_TOME ACU_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "fb35cb8d11cced5bc18774d42c94dd3cc99bb0b400f025afe124b9885e2e08db",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A213",
+      "path": "INMET_N_PA_A213_TOME ACU_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "e53bf63e4e35fada7e81d588694499327affae16fedf4f49bace3bc8ebd9c8f6",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A214",
+      "path": "INMET_N_PA_A214_RONDON DO PARA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "d85feac66db1830e2af9d6fe9d0883abe25e09b366b45c6141e88d084b4f8598",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A214",
+      "path": "INMET_N_PA_A214_RONDON DO PARA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "0670a2d98b78b2698a616c07a7b7d29d0b479c7731d9f67b7a3c43ff1981a0f0",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A215",
+      "path": "INMET_N_PA_A215_SALINOPOLIS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "38e057be39bd67ef7b9b17095c395deaf25bb3c659e58092fad973eb52acc142",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A215",
+      "path": "INMET_N_PA_A215_SALINOPOLIS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "0b40c387d01d4a4fcaf767ba4ef7fc43de6b6fd7074fcef9bf9af1b129c02c49",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A216",
+      "path": "INMET_N_PA_A216_SAO FELIX DO XINGU_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "f993e2ec11208a2e2408b455c6f092d3717d926d1dae9e94b227a60b08b99d13",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A216",
+      "path": "INMET_N_PA_A216_SAO FELIX DO XINGU_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "20769ef3c2088acd7aa7b28224c0bae33eac2dbfaa47fc6c614a406f20b3654a",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A217",
+      "path": "INMET_NE_MA_A217_FAROL de SANTANA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "a8462c44829ee54ae507dce3317aff360617fd22129ede2248bfdf439755754a",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A217",
+      "path": "INMET_NE_MA_A217_FAROL de SANTANA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "c54eae85b21f4b0a117e531c364af2ecb30281d0e6b575a78d10d8c0cef064ec",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A218",
+      "path": "INMET_NE_MA_A218_PREGUICAS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "8b7d6484fe1c90de986390072f36649f76de3efb421d01276ed1561d2d43fb7c",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A218",
+      "path": "INMET_NE_MA_A218_PREGUICAS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "b9aac8f8e14353d42b2f405535e8bd9e63ac7ac913a6cf762243eb714c8e5284",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A219",
+      "path": "INMET_NE_MA_A219_TURIACU_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "b75c32d0fa947777423c095cce0cee155e3f22fba23f9a0e4221df8303ab8ce5",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A219",
+      "path": "INMET_NE_MA_A219_TURIACU_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "283ef6cb8398e84fe8830fdc3e245c5c597b997a3dc75913a15e62770324d07f",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A220",
+      "path": "INMET_NE_MA_A220_BACABAL_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "e559d26e49fe72a2be6ed2050d437f9048dcd45b56d08b292e9315affed2e78d",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A220",
+      "path": "INMET_NE_MA_A220_BACABAL_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "3b03695981ef8ffe25e33ebdf6246b11e8286323a5871da17d90646a003ed962",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A221",
+      "path": "INMET_NE_MA_A221_BARRA DO CORDA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "124b6ce5f9acb1973aa4c06027e0cc77b7b835a34dd5b77a28cb6ed25b745caa",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A221",
+      "path": "INMET_NE_MA_A221_BARRA DO CORDA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "434ce70ff280a2d447cc51e5a65e49fd720981eee97efc592ea63e43eac33308",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A222",
+      "path": "INMET_NE_MA_A222_COLINAS_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "19e11fb880c4258d2e17650c3c985ee7cb3da6359580cec34dfea6370060daa9",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A222",
+      "path": "INMET_NE_MA_A222_COLINAS_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "db9399af8024c3e50c50e9b2279fbfef137751d72ab295f077eda98102c67647",
+      "n_rows": "8784"
+    },
+    {
+      "station_id": "A223",
+      "path": "INMET_NE_MA_A223_ALTO PARNAIBA_01-01-2023_A_31-12-2023.CSV",
+      "sha256": "d7aedc2ed4a4b000703bed0ed0d64001ab5969d8e2cb901d73046cf22121a434",
+      "n_rows": "8760"
+    },
+    {
+      "station_id": "A223",
+      "path": "INMET_NE_MA_A223_ALTO PARNAIBA_01-01-2024_A_31-12-2024.CSV",
+      "sha256": "42275c6eb1d9c52269ed56f1f6eecb64f77080983d087e71a3d6b15578ef5793",
+      "n_rows": "8784"
+    }
+  ]
+}
