@@ -1,4 +1,4 @@
-# EWS-AI — anonymous reproduction package
+# EWS-AI
 
 This repository is the reviewer-facing artifact for the ICAART manuscript
 **EWS-AI** (energy-aware embedded BDI + TinyML for disaster early warning).
